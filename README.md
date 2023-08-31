@@ -21,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/pavankumarcn66/ML_MLflow
+https://github.com/pavankumarcn66/ML_MLflow.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
